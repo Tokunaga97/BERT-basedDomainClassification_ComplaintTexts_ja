@@ -150,5 +150,5 @@ This project demonstrates:
 
 <p>
 Shota Tokunaga<br>
-Completed Master's Program | NLP / Machine Learning
+Independent researcher | NLP / Machine Learning
 </p>
